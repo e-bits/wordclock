@@ -23,7 +23,9 @@ WordClock Default Style
 }
 
 .wc__row__letter{
-	color: var(--off-color);
+  color: var(--off-color);
+  width: calc(100% / 11);
+  text-align: center;
 }
 
 .wc__row__letter--bright{

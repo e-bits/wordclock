@@ -21,8 +21,9 @@ If you want to add a languagepack to my system, feel free to add a PR.
 | German         |   DE    | wc_langPack_DE.js      |
 | English        |   EN    | wc_langPack_EN.js      |
 | Dutch          |   NL    | wc_langPack_NL.js      |
-| Swiss German   | DE_SWG  | wc_langPack_DE_SWG.js  |
+| Swabian German | DE_SWG  | wc_langPack_DE_SWG.js  |
 | Bernese German | CH_BERN | wc_langPack_CH_BERN.js |
+| Swiss German   | CH_SZ   | wc_langPack_CH_SZ.js   |
 
 ## Screenshot
 
